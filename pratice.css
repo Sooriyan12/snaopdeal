@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+nav{
+    background-color: rgb(241, 68, 97);
+}
+.subcata:hover{
+    color: grey;
+}
+.subcata2:hover{
+    color: grey;
+}
+.subcata3:hover{
+    color: grey;
+}
+
+.catalag{
+    cursor: pointer;
+}
+.logo{
+    color: white;
+    margin-left: 80px;
+    padding: 30px;
+    display: inline-block;
+}
+.ulogin{
+    display: inline-block;
+    margin-left: 70%;
+    cursor: pointer;
+}
+.ulogin:hover{
+    color: white;
+}
+.login{
+    display: inline-block;
+    color: white;
+    background-color: black;
+    margin-left: 40px;
+    cursor: pointer;
+    padding: 5px;
+}
+.login:hover{
+    background-color: palevioletred;
+}
+.catalog,ul,li{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 30px;
+}
+.register{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 60%;
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+    height: 280px;
+}
+.submit{
+    
+    width: 300px;
+    height: 23px;
+    margin-left: 10%;
+    background-color: rgb(241, 68, 97);
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 5px;
+
+}
+.one{
+    border-width: 1px;
+    border-style: solid;
+    padding: 4px;
+    
+}
+.ones{
+    border-width: 1px;
+    border-style: solid;
+    padding: 4px;
+}
+.submit:hover{
+    background-color: rgb(255, 0, 85);
+}
+
+.write{
+    background-color: rgb(255, 0, 85);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
+.footer{
+    padding: 10px;
+    background-color: rgb(241, 68, 97); 
+    cursor: pointer;
+      
+}
+.footer1{
+    display: inline-block;
+    margin-left: 20px;
+}
+.footer2{
+    display: inline-block;
+    margin-left: 70%;
+}
+.footer1:hover{
+    color: white;
+}
+.footer2:hover{
+    color: white;
+}
